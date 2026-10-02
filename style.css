@@ -6,12 +6,17 @@ body {
     display: flex;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
+    background-color: #e3f2fd;
 
 }
 header{
     width: 100vw;
     height: 12vh;
     display: flex;
-    justify-content: center;
+    justify-content: start;
+    padding: 1vw;
     align-items: center;
+    background-color: #2b2d42;
+    color: white;
+    border-bottom: solid 5px gray;
 }
